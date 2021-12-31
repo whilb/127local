@@ -1,0 +1,1 @@
+hugo && rsync -avzp --delete public/ root@10.0.0.243:/var/www/127local.net/
